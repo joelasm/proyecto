@@ -1,0 +1,9 @@
+c:\users\joel_\source\repos\ProyectoCoppel\Controlador\bin\Debug\Controlador.dll
+c:\users\joel_\source\repos\ProyectoCoppel\Controlador\bin\Debug\Controlador.pdb
+c:\users\joel_\source\repos\ProyectoCoppel\Controlador\bin\Debug\Modelo.dll
+c:\users\joel_\source\repos\ProyectoCoppel\Controlador\bin\Debug\Modelo.pdb
+c:\users\joel_\source\repos\ProyectoCoppel\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+c:\users\joel_\source\repos\ProyectoCoppel\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+c:\users\joel_\source\repos\ProyectoCoppel\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+c:\users\joel_\source\repos\ProyectoCoppel\Controlador\obj\Debug\Controlador.dll
+c:\users\joel_\source\repos\ProyectoCoppel\Controlador\obj\Debug\Controlador.pdb

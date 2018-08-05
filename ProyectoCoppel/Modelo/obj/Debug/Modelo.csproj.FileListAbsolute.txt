@@ -1,0 +1,6 @@
+c:\users\joel_\source\repos\ProyectoCoppel\Modelo\bin\Debug\Modelo.dll
+c:\users\joel_\source\repos\ProyectoCoppel\Modelo\bin\Debug\Modelo.pdb
+c:\users\joel_\source\repos\ProyectoCoppel\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+c:\users\joel_\source\repos\ProyectoCoppel\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+c:\users\joel_\source\repos\ProyectoCoppel\Modelo\obj\Debug\Modelo.dll
+c:\users\joel_\source\repos\ProyectoCoppel\Modelo\obj\Debug\Modelo.pdb
